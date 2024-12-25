@@ -5,15 +5,16 @@ import { getSearchResult } from "../utils/api";
 import { SearchResultData } from "../types/app";
 import ListingCard from "../components/ListingCard";
 
-type SearchParams = {
+type SearchParams = Promise<{
      location: string;
      startDate: string;
      endDate: string;
      numOfGuests: string
-}
+}>
 
 const SearchResult = async ({ searchParams }: { searchParams: SearchParams }) => {
      const { location, startDate, endDate, numOfGuests } = await searchParams
+
      const Filters = ["Cancellation Flexibility", "Type of Place", "Price", "Rooms and Beds", "More Filters"]
      let formatedStartDate, formatedEndDate;
      if (startDate && endDate) {
