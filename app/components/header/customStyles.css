@@ -1,0 +1,10 @@
+.rdrDefinedRangesWrapper{
+     display:none
+}
+
+
+@media((min-width: 768px)){
+     .rdrDefinedRangesWrapper{
+          display:block
+     }
+}

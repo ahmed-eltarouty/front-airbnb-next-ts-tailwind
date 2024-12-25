@@ -1,0 +1,42 @@
+[
+	{
+		"img": "https://images.unsplash.com/photo-1556276797-5086e6b45ff9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"location": "Newquay",
+		"distance": "6-hour drive"
+	},
+	{
+		"img": "https://images.unsplash.com/photo-1461681922067-669418071e5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"location": "Hove",
+		"distance": "2-hour drive"
+	},
+	{
+		"img": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"location": "London",
+		"distance": "45-minute drive"
+	},
+	{
+		"img": "https://images.unsplash.com/photo-1512100356356-de1b84283e18?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"location": "Manchester",
+		"distance": "4.5-hour drive"
+	},
+	{
+		"img": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"location": "Liverpool ",
+		"distance": "4.5-hour drive"
+	},
+	{
+		"img": "https://plus.unsplash.com/premium_photo-1699566448055-671c8dbcc7ee?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"location": "York",
+		"distance": "4-hour drive"
+	},
+	{
+		"img": "https://plus.unsplash.com/premium_photo-1721353413070-bb55c58138fb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"location": "Hove",
+		"distance": "2-hour drive"
+	},
+	{
+		"img": "https://images.unsplash.com/photo-1475688621402-4257c812d6db?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTZ8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D",
+		"location": "Manchester",
+		"distance": "4.5-hour drive"
+	}
+]
